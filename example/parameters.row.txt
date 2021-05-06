@@ -1,0 +1,2 @@
+inputfile	output.shared	
+row	2

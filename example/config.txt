@@ -1,0 +1,2 @@
+Prefix plugins/RemoveRow/example
+Plugin RemoveRow inputfile parameters.row.txt outputfile output.removerow.shared
